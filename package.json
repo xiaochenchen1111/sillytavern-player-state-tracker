@@ -1,0 +1,7 @@
+{
+  "name": "sillytavern-player-state-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"test": "node --test state-engine.test.js native-api.test.js panel.test.js"}
+}

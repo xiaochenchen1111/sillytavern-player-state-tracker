@@ -1,0 +1,14 @@
+{
+  "display_name": "用户状态记录",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "xiaochenchen1111",
+  "version": "1.0.0",
+  "minimum_client_version": "1.19.0",
+  "homePage": "https://github.com/xiaochenchen1111/sillytavern-player-state-tracker",
+  "auto_update": true
+}
